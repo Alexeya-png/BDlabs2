@@ -1,0 +1,39 @@
+C:\Users\aradi\source\repos\BDlabs\BDlabs\bin\Debug\BDlabs.exe.config
+C:\Users\aradi\source\repos\BDlabs\BDlabs\bin\Debug\BDlabs.exe
+C:\Users\aradi\source\repos\BDlabs\BDlabs\bin\Debug\BDlabs.pdb
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.AssemblyReference.cache
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.SuggestedBindingRedirects.cache
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.Form1.resources
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.Properties.Resources.resources
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.GenerateResource.cache
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.CoreCompileInputs.cache
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.exe
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.pdb
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.createFood.resources
+C:\Users\aradi\source\repos\BDlabs\BDlabs\obj\Debug\BDlabs.createTimeTable.resources
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\bin\Debug\BDlabs.exe.config
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\bin\Debug\BDlabs.exe
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\bin\Debug\BDlabs.pdb
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.AssemblyReference.cache
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.SuggestedBindingRedirects.cache
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.createTimeTable.resources
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.Form1.resources
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.Properties.Resources.resources
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.GenerateResource.cache
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.CoreCompileInputs.cache
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.exe
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.pdb
+C:\Users\aradi\Desktop\Влада БД\1 ЛБ\BDlabs\BDlabs\BDlabs\obj\Debug\BDlabs.createPlant.resources
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\bin\Debug\BDlabs.exe.config
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\bin\Debug\BDlabs.exe
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\bin\Debug\BDlabs.pdb
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.AssemblyReference.cache
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.SuggestedBindingRedirects.cache
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.createPlant.resources
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.createTimeTable.resources
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.Form1.resources
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.Properties.Resources.resources
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.GenerateResource.cache
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.csproj.CoreCompileInputs.cache
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.exe
+C:\Users\aradi\Desktop\Влада БД\2 ЛБ\BDlabs2\BDlabs\BDlabs\obj\Debug\BDlabs.pdb
